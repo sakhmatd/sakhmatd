@@ -1,4 +1,6 @@
 ### [Sergei Akhmatdinov](https://sakhmatd.ee)
 
-![](https://github.com/sakhmatd/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/sakhmatd/github-stats/blob/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/sakhmatd/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/sakhmatd/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/sakhmatd/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/sakhmatd/github-stats/master/generated/languages.svg#gh-light-mode-only)
